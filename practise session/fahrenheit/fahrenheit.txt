@@ -1,0 +1,9 @@
+ The temperature of Dhaka in Celsius:       20.000000
+ The temperature of Khulna in Celsius:       25.000000
+ The temperature of Rajshahi in Celsius:       30.000000
+ The temperature of Sylhet in Celsius:       35.000000
+ -----------------------------
+  The temperature of Dhaka in fahrenheit is:52.0
+  The temperature of Khulna in fahrenheit is:57.0
+  The temperature of Rajshahi in fahrenheit is:62.0
+  The temperature of Sylhet in fahrenheit is: 67.0

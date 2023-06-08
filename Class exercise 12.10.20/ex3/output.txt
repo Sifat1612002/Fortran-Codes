@@ -1,0 +1,6 @@
+ Student ID          Average Mark           Grade 
+      1               76.67                   2
+      2               81.67                   3
+      3               74.67                   2
+      4               73.00                   2
+      5               63.67                   1

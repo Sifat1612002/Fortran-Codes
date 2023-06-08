@@ -1,0 +1,4 @@
+  Age of the man =  65 years
+  Number of his dependents =  3
+  Extra deducted tax amount =   75.00 $
+  Total Income Tax Deduction =   2325.00 $

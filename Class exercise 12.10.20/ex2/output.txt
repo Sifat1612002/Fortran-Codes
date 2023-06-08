@@ -1,0 +1,4 @@
+ Triangle   Hypotenuse   Area
+   1           5.00       6.00
+   2          13.00      30.00
+   3          17.00      60.00

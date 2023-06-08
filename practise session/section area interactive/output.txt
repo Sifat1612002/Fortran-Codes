@@ -1,0 +1,2 @@
+  Values of the ordinates at each station are:    0.  100.  250.  500.  400.  300.  200.
+  area of the section=  .17 m^2

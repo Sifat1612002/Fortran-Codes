@@ -1,0 +1,2 @@
+  Values of the ordinates at each station are:     .0  100.0  250.0  500.0  400.0  300.0  200.0
+ The unit of the area is in metre square
